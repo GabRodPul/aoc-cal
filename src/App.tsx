@@ -19,9 +19,9 @@ const pngBorder = (border: number, color: string) => `
        drop-shadow( ${border}px  ${border}px 0 ${color})
     `;
 
-const AocDayEntry = ({ day }: { day: AocDay }) => {
+const AocDayEntry = ({ day }: { day?: AocDay }) => {
   
-  return day ? (
+  return day !== undefined ? (
     <div>
       <img
         src={`/aoc-cal/img/logo/${day.lang.code}.png`}
@@ -164,9 +164,7 @@ function App() {
           {dayNotAvailable(n)
             ? <div style={{ color: "ff" }}>Locked</div>
             : <div>
-              {days[i] !== undefined
-                ? <AocDayEntry day={days[i]} />
-                : <div>Not done</div>}
+              <AocDayEntry day={days[i]} />
             </div>
           }
         </button>
