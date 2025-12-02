@@ -9,6 +9,13 @@ Currently supports only the last edition (2025) which lasts 12 days and stores d
 - Save your answers and the programming language you used each day.
 - Randomize the programming language to use by clicking the "Randomize" button.
 
+# Screenshots
+## Main view
+![Main view](/example/example-main.jpg)
+
+## Modal view
+![Modal view](/example/example-modal.jpg)
+
 # TODO/Planned features
 - Add previous AoC editions.
 - Add hash generation for easy exporting of data.
