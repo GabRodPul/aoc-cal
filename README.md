@@ -1,5 +1,5 @@
 # aoc-cal
-Programming language calendary of [Advent of Code](https://adventofcode.com/).
+Calendary w/ programming languages of [Advent of Code](https://adventofcode.com/).
 Currently supports only the last edition (2025) which lasts 12 days and stores data locally.
 
 # Requirements
