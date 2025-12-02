@@ -1,0 +1,28 @@
+[
+    {
+        "name": "Rockstar",
+        "code": "rock",
+        "refs": [
+            "[Rockstar - Home Page](https://codewithrockstar.com)",
+            "[Rockstar - Online Interpreter](https://codewithrockstar.com/online)",
+
+            "[Esolang Wiki - Rockstar](https://esolangs.org/wiki/Rockstar)"
+        ]
+    },
+    {
+        "name": "Brainfuck",
+        "code": "bf",
+        "refs": [
+            "[Esolang Wiki - Brainfuck](https://en.wikipedia.org/wiki/Brainfuck)",
+            "[Esolang Wiki - Brainfuck implementations](https://esolangs.org/wiki/Brainfuck_implementations)"
+        ]
+    },
+    {
+        "name": "Crust",
+        "code": "crust",
+        "refs": [
+            "[tsoding/Crust - The Rules of Crust](https://github.com/tsoding/Crust)",
+            "[Rust Programming Language](https://rust-lang.org)"
+        ]
+    }
+]

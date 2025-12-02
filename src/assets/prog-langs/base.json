@@ -1,0 +1,386 @@
+[
+    {
+        "name": "C",
+        "code": "c",
+        "refs": [
+            "[Wikipedia - C++](https://en.wikipedia.org/wiki/C%2B%2B)",
+            "[Compiler - GCC, the GNU Compiler Collection](https://gcc.gnu.org)",
+            "[Compiler - Clang](https://clang.llvm.org/get_started.html)",
+            "[Compiler - MSVC aka. Visual Studio C/C++ IDE and Compiler for Windows](https://visualstudio.microsoft.com/vs/features/cplusplus/)"
+        ]
+    },
+    {
+        "name": "C++",
+        "code": "cpp",
+        "refs": [
+            "[Wikipedia - C++](https://en.wikipedia.org/wiki/C%2B%2B)",
+            "[Compiler - GCC, the GNU Compiler Collection](https://gcc.gnu.org)",
+            "[Compiler - Clang](https://clang.llvm.org/get_started.html)",
+            "[Compiler - MSVC aka. Visual Studio C/C++ IDE and Compiler for Windows](https://visualstudio.microsoft.com/vs/features/cplusplus/)"
+        ]
+    },
+    {
+        "name": "Rust",
+        "code": "rs",
+        "refs": [
+            "[Rust Programming Language](https://rust-lang.org)"
+        ]
+    },
+    {
+        "name": "Go",
+        "code": "go",
+        "refs": [
+            "[The Go Programming Language](https://go.dev)"
+        ]
+    },
+    {
+        "name": "TypeScript",
+        "code": "ts",
+        "refs": [
+            "[TypeScript: JavaScript With Syntax For Types.](https://www.typescriptlang.org)",
+            "[npm - Home Page](https://www.npmjs.com)",
+            "[npm - TypeScript](https://www.npmjs.com/package/typescript)",
+            "[deno, the next-generation JavaScript runtime](https://deno.com)"
+        ]
+    },
+    {
+        "name": "JavaScript",
+        "code": "js",
+        "refs": [
+            "[npm - Home Page](https://www.npmjs.com)",
+            "[deno, the next-generation JavaScript runtime](https://deno.com)",
+            "[Or y'know, an HTML file and your browser...](https://developer.mozilla.org/en-US/docs/Web/HTML/Reference/Elements/script)"
+        ]
+    },
+    {
+        "name": "Lua",
+        "code": "lua",
+        "refs": [
+            "[The Programming Language Lua](https://www.lua.org)"
+        ]
+    },
+    {
+        "name": "C#",
+        "code": "cs",
+        "refs": [
+            "[Wikipedia - C Sharp (programming language)](https://en.wikipedia.org/wiki/C_Sharp_(programming_language))",
+            "[Microsoft - C# Guide - .NET managed language](https://learn.microsoft.com/en-us/dotnet/csharp/)"
+        ]
+    },
+    {
+        "name": "Python",
+        "code": "py",
+        "refs": [
+            "[Welcome to Python.org](https://www.python.org)"
+        ]
+    },
+    {
+        "name": "C3",
+        "code": "c3",
+        "refs": [
+            "[C3 | An evolution, not a revolution](https://c3-lang.org/)"
+        ]
+    },
+    {
+        "name": "Haskell",
+        "code": "hs",
+        "refs": [
+            "[Haskell Language](https://www.haskell.org/)"
+        ]
+    },
+    {
+        "name": "Odin",
+        "code": "odin",
+        "refs": [
+            "[Odin Programming Language](https://odin-lang.org)"
+        ]
+    },
+    {
+        "name": "Julia",
+        "code": "jl",
+        "refs": [
+            "[The Julia Programming Language](https://julialang.org)"
+        ]
+    },
+    {
+        "name": "Elixir",
+        "code": "ex",
+        "refs": [
+            "[The Elixir programming language](https://elixir-lang.org)"
+        ]
+    },
+    {
+        "name": "GDScript",
+        "code": "gdscript",
+        "refs": [
+            "[Godot Engine](https://godotengine.org)",
+            "[GDScript reference - Godot Engine (stable)](https://docs.godotengine.org/en/stable/tutorials/scripting/gdscript/gdscript_basics.html)"
+        ]
+    },
+    {
+        "name": "Kotlin",
+        "code": "kt",
+        "refs": [
+            "[Kotlin Programming Language](https://kotlinlang.org)"
+        ]
+    },
+    {
+        "name": "Zig",
+        "code": "zig",
+        "refs": [
+            "[Home ⚡ Zig Programming Language](https://ziglang.org)"
+        ]
+    },
+    {
+        "name": "Gleam",
+        "code": "gleam",
+        "refs": [
+            "[Gleam programming language](https://gleam.run)"
+        ]
+    },
+    {
+        "name": "F#",
+        "code": "fs",
+        "refs": [
+            "[fsharp.org](https://fsharp.org/)"
+        ]
+    },
+    {
+        "name": "V",
+        "code": "v",
+        "refs": [
+            "[The V Programming Language](https://vlang.io/)"
+        ]
+    },
+    {
+        "name": "Nim",
+        "code": "nim",
+        "refs": [
+            "[The Nim Programming Language](https://nim-lang.org/)"
+        ]
+    },
+    {
+        "name": "OCamel",
+        "code": "ocml",
+        "refs": [
+            "[Welcome to a World of OCamel](https://ocaml.org/)"
+        ]
+    },
+    {
+        "name": "Carbon",
+        "code": "carbon",
+        "refs": [
+            "[Carbon Language Documentation - Home](https://docs.carbon-lang.dev/)",
+            "[GitHub - carbon-lang/carbon-lang: Carbon Language's main repository: documents, design, implementation, and related tools. (NOTE: Carbon Language is experimental; see README)](https://en.wikipedia.org/wiki/Carbon_(programming_language))"
+        ]
+    },
+    {
+        "name": "Racket",
+        "code": "rkt",
+        "refs": [
+            "[Racket](https://www.racket-lang.org/)"
+        ]
+    },
+    {
+        "name": "Scheme",
+        "code": "scm",
+        "refs": [
+            "[The Scheme Programming Language](https://www.scheme.org/)"
+        ]
+    },
+    {
+        "name": "Common Lisp",
+        "code": "lisp",
+        "refs": [
+            "[Common Lisp](https://lisp-lang.org/)"
+        ]
+    },
+    {
+        "name": "Erlang",
+        "code": "erl",
+        "refs": [
+            "[Index - Erlang/OTP](https://www.erlang.org/)"
+        ]
+    },
+    {
+        "name": "Raku",
+        "code": "raku",
+        "refs": [
+            "[Raku®](https://raku.org/)"
+        ]
+    },
+    {
+        "name": "Perl",
+        "code": "pl",
+        "refs": [
+            "[The Perl Programming Language - www.perl.org](https://www.perl.org/)"
+        ]
+    },
+    {
+        "name": "Ada",
+        "code": "ada",
+        "refs": [
+            "[ada-lang.io, an Ada community site](https://ada-lang.io/)"
+        ]
+    },
+    {
+        "name": "Scala",
+        "code": "sc",
+        "refs": [
+            "[The Scala Programming Language](https://www.scala-lang.org/)"
+        ]
+    },
+    {
+        "name": "Haxe",
+        "code": "hx",
+        "refs": [
+            "[Haxe - The Cross-platform Toolkit](https://haxe.org/)"
+        ]
+    },
+    {
+        "name": "D",
+        "code": "d",
+        "refs": [
+            "[Home - D Programming Language](https://dlang.org/)"
+        ]
+    },
+    {
+        "name": "CoffeeScript",
+        "code": "coffee",
+        "refs": [
+            "[CoffeeScript](https://coffeescript.org/)"
+        ]
+    },
+    {
+        "name": "Clojure",
+        "code": "clj",
+        "refs": [
+            "[Clojure](https://clojure.org/)"
+        ]
+    },
+    {
+        "name": "Vala",
+        "code": "vala",
+        "refs": [
+            "[Vala Programming Language](https://vala.dev/)"
+        ]
+    },
+    {
+        "name": "Dart",
+        "code": "dart",
+        "refs": [
+            "[Dart programming language](https://dart.dev/)"
+        ]
+    },
+    {
+        "name": "Swift",
+        "code": "swift",
+        "refs": [
+            "[Swift Programming Language](https://www.swift.org/)"
+        ]
+    },
+    {
+        "name": "R",
+        "code": "r",
+        "refs": [
+            "[R: The R Project for Statistical Computing](https://www.r-project.org/)"
+        ]
+    },
+    {
+        "name": "Ruby",
+        "code": "ru",
+        "refs": [
+            "[Ruby Programming Language](https://www.ruby-lang.org/en/)"
+        ]
+    },
+    {
+        "name": "GameMaker Language",
+        "code": "gml",
+        "refs": [
+            "[GameMaker | Make 2D Games With The Free Engine](https://gamemaker.io/en)",
+            "[GameMaker Manual - GameMaker Language GML Code](https://manual.gamemaker.io/monthly/en/GameMaker_Language.htm)"
+        ]
+    },
+    {
+        "name": "Mojo",
+        "code": "mojo",
+        "refs": [
+            "[Mojo : Powerful CPU+GPU Programming - Modular](https://www.modular.com/mojo)"
+        ]
+    },
+    {
+        "name": "Crystal",
+        "code": "cr",
+        "refs": [
+            "[The Crystal Programming Language](https://crystal-lang.org/)"
+        ]
+    },
+    {
+        "name": "Groovy",
+        "code": "gvy",
+        "refs": [
+            "[The Apache Groovy™ programming language](https://groovy-lang.org/)"
+        ]
+    },
+    {
+        "name": "Hack",
+        "code": "hack",
+        "refs": [
+            "[Hack](https://hacklang.org/)"
+        ]
+    },
+    {
+        "name": "Visual Basic",
+        "code": "vb",
+        "refs": [
+            "[Visual Basic docs - get started, tutorials, reference. - Microsoft Learn](https://learn.microsoft.com/en-us/dotnet/visual-basic/)"
+        ]
+    },
+    {
+        "name": "Objective-C",
+        "code": "objc",
+        "refs": [
+            "[Wikipedia - Objective-C](https://en.wikipedia.org/wiki/Objective-C)",
+            "[Compiler - GCC, the GNU Compiler Collection](https://gcc.gnu.org)",
+            "[Compiler - Clang](https://clang.llvm.org/get_started.html)",
+            "[Compiler - WinObjC](https://github.com/microsoft/WinObjC)"
+        ]
+    },
+    {
+        "name": "Java",
+        "code": "java",
+        "refs": [
+            "[Java | Oracle](https://www.java.com/en/)"
+        ]
+    },
+    {
+        "name": "PHP",
+        "code": "php",
+        "refs": [
+            "[PHP](https://www.php.net/)"
+        ]
+    },
+    {
+        "name": "Fortran",
+        "code": "fort",
+        "refs": [
+            "[The Fortran Programming Language — Fortran Programming Language](https://fortran-lang.org/)"
+        ]
+    },
+    {
+        "name": "Pascal",
+        "code": "pas",
+        "refs": [
+            "[Wikipedia - Pascal (programming language)](https://en.wikipedia.org/wiki/Pascal_(programming_language))",
+            "[Compiler - Free Pascal - Advanced open source Pascal compiler for Pascal and Object Pascal | Home](https://www.freepascal.org/)"
+        ]
+    },
+    {
+        "name": "COBOL",
+        "code": "cob",
+        "refs": [
+            "[Wikipedia - COBOL](https://en.wikipedia.org/wiki/COBOL)",
+            "[Compiler - GnuCOBOL](https://gnucobol.sourceforge.io/)"
+        ]
+    }
+]
