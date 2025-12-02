@@ -24,7 +24,7 @@ const AocDayEntry = ({ day }: { day: AocDay }) => {
   return day ? (
     <div>
       <img
-        src={`/img/logo/${day.lang.code}.png`}
+        src={`/aoc-cal/img/logo/${day.lang.code}.png`}
         style={{
           maxWidth: "64px",
           filter: pngBorder(.2, "white")
@@ -93,7 +93,7 @@ const EditModal = ({ isOpen, onClose, current, index }) => {
         </div>
         <div id="modal-lang" style={{ display: "flex", flexDirection: "column", alignItems: "center", height: 256 }}>
           <img
-            src={`/img/logo/${Global.pLangs[selected].code}.png`}
+            src={`/aoc-cal/img/logo/${Global.pLangs[selected].code}.png`}
             style={{
               width: 256,
               height: "auto",
